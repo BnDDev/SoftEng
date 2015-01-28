@@ -1,0 +1,940 @@
+src/org/bnddev/softeng/AppData.java:5:	headerCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:7:	Avoid short class names like Page
+src/org/bnddev/softeng/AppData.java:7:	Each class should declare at least one constructor
+src/org/bnddev/softeng/AppData.java:7:	headerCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:8:	Avoid using redundant field initializer for 'enabled'
+src/org/bnddev/softeng/AppData.java:8:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:11:	Each class should declare at least one constructor
+src/org/bnddev/softeng/AppData.java:11:	headerCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:12:	Avoid using redundant field initializer for 'isAdmin'
+src/org/bnddev/softeng/AppData.java:12:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:13:	Avoid using redundant field initializer for 'userID'
+src/org/bnddev/softeng/AppData.java:13:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:16:	Each class should declare at least one constructor
+src/org/bnddev/softeng/AppData.java:16:	headerCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:19:	Each class should declare at least one constructor
+src/org/bnddev/softeng/AppData.java:19:	headerCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:20:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/org/bnddev/softeng/AppData.java:20:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:21:	Avoid using redundant field initializer for 'updated'
+src/org/bnddev/softeng/AppData.java:21:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:24:	Each class should declare at least one constructor
+src/org/bnddev/softeng/AppData.java:24:	headerCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:25:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/org/bnddev/softeng/AppData.java:25:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:28:	Each class should declare at least one constructor
+src/org/bnddev/softeng/AppData.java:28:	headerCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:29:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:30:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:31:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/org/bnddev/softeng/AppData.java:31:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:32:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/org/bnddev/softeng/AppData.java:32:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:33:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/org/bnddev/softeng/AppData.java:33:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:36:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/bnddev/softeng/AppData.java:36:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppData.java:36:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:37:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/bnddev/softeng/AppData.java:37:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppData.java:37:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:38:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/bnddev/softeng/AppData.java:38:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppData.java:38:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:39:	Avoid excessively long variable names like updateSuppliesData
+src/org/bnddev/softeng/AppData.java:39:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/bnddev/softeng/AppData.java:39:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppData.java:39:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:40:	Fields should be declared at the top of the class, before any method declarations, constructors, initializers or inner classes.
+src/org/bnddev/softeng/AppData.java:40:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppData.java:40:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppData.java:42:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:15:	The class 'AppModel' has a Cyclomatic Complexity of 4 (Highest = 10).
+src/org/bnddev/softeng/AppModel.java:15:	This class has too many methods, consider refactoring it.
+src/org/bnddev/softeng/AppModel.java:15:	headerCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:17:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:18:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:19:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:20:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:21:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:22:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:23:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:24:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:25:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:26:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:27:	Avoid excessively long variable names like stmtGetUpdatesRange
+src/org/bnddev/softeng/AppModel.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:27:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:28:	Avoid excessively long variable names like stmtUpdateProductName
+src/org/bnddev/softeng/AppModel.java:28:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:28:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:29:	Avoid excessively long variable names like stmtUpdateProductSupplies
+src/org/bnddev/softeng/AppModel.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/AppModel.java:29:	fieldCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:31:	It is a good practice to call super() in a constructor
+src/org/bnddev/softeng/AppModel.java:31:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:46:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/AppModel.java:47:	Avoid printStackTrace(); use a logger call instead.
+src/org/bnddev/softeng/AppModel.java:51:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:58:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:70:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/AppModel.java:71:	Avoid printStackTrace(); use a logger call instead.
+src/org/bnddev/softeng/AppModel.java:75:	Parameter 'password' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:75:	Parameter 'username' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:75:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:79:	Avoid using for statements without curly braces
+src/org/bnddev/softeng/AppModel.java:81:	Local variable 'hash' could be declared final
+src/org/bnddev/softeng/AppModel.java:81:	This statement may have some unnecessary parentheses
+src/org/bnddev/softeng/AppModel.java:81:	Useless parentheses.
+src/org/bnddev/softeng/AppModel.java:81:	Useless parentheses.
+src/org/bnddev/softeng/AppModel.java:84:	Avoid variables with short names like rs
+src/org/bnddev/softeng/AppModel.java:84:	Ensure that resources like this ResultSet object are closed after use
+src/org/bnddev/softeng/AppModel.java:84:	Local variable 'rs' could be declared final
+src/org/bnddev/softeng/AppModel.java:85:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:86:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:87:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:88:	A method should have only one exit point, and that should be the last statement in the method
+src/org/bnddev/softeng/AppModel.java:89:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:90:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:91:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/AppModel.java:92:	Avoid printStackTrace(); use a logger call instead.
+src/org/bnddev/softeng/AppModel.java:92:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:97:	Parameter 'username' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:100:	Avoid variables with short names like rs
+src/org/bnddev/softeng/AppModel.java:100:	Ensure that resources like this ResultSet object are closed after use
+src/org/bnddev/softeng/AppModel.java:100:	Local variable 'rs' could be declared final
+src/org/bnddev/softeng/AppModel.java:101:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:102:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:103:	A method should have only one exit point, and that should be the last statement in the method
+src/org/bnddev/softeng/AppModel.java:105:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/AppModel.java:106:	Avoid printStackTrace(); use a logger call instead.
+src/org/bnddev/softeng/AppModel.java:111:	Parameter 'password' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:111:	Parameter 'username' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:111:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:114:	Avoid variables with short names like rs
+src/org/bnddev/softeng/AppModel.java:114:	Ensure that resources like this ResultSet object are closed after use
+src/org/bnddev/softeng/AppModel.java:115:	Avoid using while statements without curly braces
+src/org/bnddev/softeng/AppModel.java:115:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:116:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/AppModel.java:116:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/AppModel.java:116:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/AppModel.java:116:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:116:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:116:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:117:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:119:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:120:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:121:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:122:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:123:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:123:	The String literal "??????? ??????" appears 6 times in this file; the first occurrence is on line 123
+src/org/bnddev/softeng/AppModel.java:123:	The String literal "?????? MySQL" appears 6 times in this file; the first occurrence is on line 123
+src/org/bnddev/softeng/AppModel.java:129:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/AppModel.java:130:	Avoid printStackTrace(); use a logger call instead.
+src/org/bnddev/softeng/AppModel.java:130:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:134:	Parameter 'password' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:134:	Parameter 'username' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:134:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:141:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:141:	The String literal "?????? ????????" appears 4 times in this file; the first occurrence is on line 141
+src/org/bnddev/softeng/AppModel.java:145:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:149:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:153:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:157:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:163:	Parameter 'admin' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:163:	Parameter 'fullname' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:163:	Parameter 'password1' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:163:	Parameter 'password2' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:163:	Parameter 'username' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:163:	The method 'submitNewUser' has a Cyclomatic Complexity of 10.
+src/org/bnddev/softeng/AppModel.java:163:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:165:	Avoid if (x != y) ..; else ..;
+src/org/bnddev/softeng/AppModel.java:166:	Avoid if (x != y) ..; else ..;
+src/org/bnddev/softeng/AppModel.java:169:	Found 'DU'-anomaly for variable 'chars' (lines '169'-'195').
+src/org/bnddev/softeng/AppModel.java:169:	Local variable 'chars' could be declared final
+src/org/bnddev/softeng/AppModel.java:170:	Avoid using for statements without curly braces
+src/org/bnddev/softeng/AppModel.java:171:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/AppModel.java:172:	Local variable 'salt' could be declared final
+src/org/bnddev/softeng/AppModel.java:174:	Avoid using for statements without curly braces
+src/org/bnddev/softeng/AppModel.java:176:	Local variable 'hash' could be declared final
+src/org/bnddev/softeng/AppModel.java:176:	This statement may have some unnecessary parentheses
+src/org/bnddev/softeng/AppModel.java:176:	Useless parentheses.
+src/org/bnddev/softeng/AppModel.java:176:	Useless parentheses.
+src/org/bnddev/softeng/AppModel.java:182:	Avoid if (x != y) ..; else ..;
+src/org/bnddev/softeng/AppModel.java:184:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:189:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:190:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:191:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:192:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/AppModel.java:193:	Avoid printStackTrace(); use a logger call instead.
+src/org/bnddev/softeng/AppModel.java:193:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:197:	Parameter 'code' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:197:	Parameter 'name' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:197:	The method 'newProduct' has a Cyclomatic Complexity of 10.
+src/org/bnddev/softeng/AppModel.java:197:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:199:	Avoid if (x != y) ..; else ..;
+src/org/bnddev/softeng/AppModel.java:200:	Avoid variables with short names like id
+src/org/bnddev/softeng/AppModel.java:200:	Found 'DU'-anomaly for variable 'id' (lines '200'-'236').
+src/org/bnddev/softeng/AppModel.java:200:	Local variable 'id' could be declared final
+src/org/bnddev/softeng/AppModel.java:201:	Found 'DD'-anomaly for variable 'alreadyInList' (lines '201'-'209').
+src/org/bnddev/softeng/AppModel.java:202:	Found 'DU'-anomaly for variable 'confirmOptions' (lines '202'-'236').
+src/org/bnddev/softeng/AppModel.java:202:	Local variable 'confirmOptions' could be declared final
+src/org/bnddev/softeng/AppModel.java:203:	Found 'DU'-anomaly for variable 'confirmTitle' (lines '203'-'236').
+src/org/bnddev/softeng/AppModel.java:203:	Local variable 'confirmTitle' could be declared final
+src/org/bnddev/softeng/AppModel.java:204:	Found 'DU'-anomaly for variable 'confirmMessage' (lines '204'-'236').
+src/org/bnddev/softeng/AppModel.java:204:	Local variable 'confirmMessage' could be declared final
+src/org/bnddev/softeng/AppModel.java:206:	Local variable 'it' could be declared final
+src/org/bnddev/softeng/AppModel.java:206:	Potential violation of Law of Demeter (static property access)
+src/org/bnddev/softeng/AppModel.java:210:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/AppModel.java:213:	Avoid if (x != y) ..; else ..;
+src/org/bnddev/softeng/AppModel.java:214:	Found 'DU'-anomaly for variable 'row' (lines '214'-'236').
+src/org/bnddev/softeng/AppModel.java:216:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:225:	Avoid if (x != y) ..; else ..;
+src/org/bnddev/softeng/AppModel.java:226:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/AppModel.java:226:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/AppModel.java:228:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:232:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:233:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/AppModel.java:234:	Avoid printStackTrace(); use a logger call instead.
+src/org/bnddev/softeng/AppModel.java:234:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:238:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/org/bnddev/softeng/AppModel.java:238:	Parameter 'endDate' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:238:	Parameter 'interval' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:238:	Parameter 'products' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:238:	Parameter 'startDate' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:238:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:248:	Local variable 'query1' could be declared final
+src/org/bnddev/softeng/AppModel.java:250:	Substitute calls to size() == 0 (or size() != 0, size() > 0, size() < 1) with calls to isEmpty()
+src/org/bnddev/softeng/AppModel.java:251:	Prefer StringBuffer over += for concatenating strings
+src/org/bnddev/softeng/AppModel.java:253:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/AppModel.java:253:	Prefer StringBuffer over += for concatenating strings
+src/org/bnddev/softeng/AppModel.java:254:	Avoid using if statements without curly braces
+src/org/bnddev/softeng/AppModel.java:255:	Prefer StringBuffer over += for concatenating strings
+src/org/bnddev/softeng/AppModel.java:257:	Prefer StringBuffer over += for concatenating strings
+src/org/bnddev/softeng/AppModel.java:259:	Prefer StringBuffer over += for concatenating strings
+src/org/bnddev/softeng/AppModel.java:261:	Avoid excessively long variable names like stmtShowStatisticsIn
+src/org/bnddev/softeng/AppModel.java:261:	Local variable 'stmtShowStatisticsIn' could be declared final
+src/org/bnddev/softeng/AppModel.java:262:	Avoid variables with short names like rs
+src/org/bnddev/softeng/AppModel.java:262:	Ensure that resources like this ResultSet object are closed after use
+src/org/bnddev/softeng/AppModel.java:262:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:263:	Avoid using while statements without curly braces
+src/org/bnddev/softeng/AppModel.java:263:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:264:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/AppModel.java:264:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/AppModel.java:264:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:264:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:265:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:266:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:268:	Avoid excessively long variable names like stmtShowStatisticsOut
+src/org/bnddev/softeng/AppModel.java:268:	Local variable 'stmtShowStatisticsOut' could be declared final
+src/org/bnddev/softeng/AppModel.java:269:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:270:	Avoid using while statements without curly braces
+src/org/bnddev/softeng/AppModel.java:270:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:271:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/AppModel.java:271:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/AppModel.java:271:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:271:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:272:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:273:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:275:	Local variable 'queryTotal' could be declared final
+src/org/bnddev/softeng/AppModel.java:276:	Avoid excessively long variable names like stmtShowStatisticsTotal
+src/org/bnddev/softeng/AppModel.java:276:	Local variable 'stmtShowStatisticsTotal' could be declared final
+src/org/bnddev/softeng/AppModel.java:277:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:278:	Avoid using while statements without curly braces
+src/org/bnddev/softeng/AppModel.java:278:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:279:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/AppModel.java:279:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/AppModel.java:279:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:279:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:280:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:281:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:285:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/AppModel.java:286:	Avoid printStackTrace(); use a logger call instead.
+src/org/bnddev/softeng/AppModel.java:286:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/AppModel.java:290:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/org/bnddev/softeng/AppModel.java:290:	Parameter 'products' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:290:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:297:	Parameter 'diff' is not assigned and could be declared final
+src/org/bnddev/softeng/AppModel.java:297:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/AppModel.java:300:	Local variable 'it' could be declared final
+src/org/bnddev/softeng/AppModel.java:300:	Potential violation of Law of Demeter (static property access)
+src/org/bnddev/softeng/AppModel.java:302:	Local variable 'productId' could be declared final
+src/org/bnddev/softeng/AppModel.java:303:	Found 'DD'-anomaly for variable 'productDiff' (lines '303'-'303').
+src/org/bnddev/softeng/AppModel.java:303:	Found 'DU'-anomaly for variable 'productDiff' (lines '303'-'326').
+src/org/bnddev/softeng/AppModel.java:311:	Avoid if (x != y) ..; else ..;
+src/org/bnddev/softeng/AppModel.java:315:	Avoid if (x != y) ..; else ..;
+src/org/bnddev/softeng/AppModel.java:316:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/AppModel.java:316:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/AppModel.java:316:	Found 'DD'-anomaly for variable 'product' (lines '316'-'301').
+src/org/bnddev/softeng/AppModel.java:316:	Found 'DU'-anomaly for variable 'product' (lines '316'-'326').
+src/org/bnddev/softeng/AppModel.java:318:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:319:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/AppModel.java:323:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/AppModel.java:324:	Avoid printStackTrace(); use a logger call instead.
+src/org/bnddev/softeng/AppModel.java:324:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/LoginController.java:10:	The class 'LoginController' has a Cyclomatic Complexity of 3 (Highest = 14).
+src/org/bnddev/softeng/LoginController.java:10:	The class 'LoginController' has a Modified Cyclomatic Complexity of 3 (Highest = 14).
+src/org/bnddev/softeng/LoginController.java:10:	The class 'LoginController' has a Standard Cyclomatic Complexity of 3 (Highest = 14).
+src/org/bnddev/softeng/LoginController.java:10:	This class has too many methods, consider refactoring it.
+src/org/bnddev/softeng/LoginController.java:10:	headerCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/LoginController.java:12:	fieldCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/LoginController.java:13:	fieldCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/LoginController.java:15:	Private field 'keyListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/LoginController.java:15:	fieldCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/LoginController.java:16:	Private field 'loginListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/LoginController.java:16:	fieldCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/LoginController.java:17:	Private field 'registerListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/LoginController.java:17:	fieldCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/LoginController.java:18:	Private field 'windowListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/LoginController.java:18:	fieldCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:20:	The constructor 'LoginController' has a Cyclomatic Complexity of 14.
+src/org/bnddev/softeng/LoginController.java:20:	The constructor 'LoginController' has a Modified Cyclomatic Complexity of 14.
+src/org/bnddev/softeng/LoginController.java:20:	The constructor 'LoginController' has a Standard Cyclomatic Complexity of 14.
+src/org/bnddev/softeng/LoginController.java:20:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:22:	Avoid variables with short names like e
+src/org/bnddev/softeng/LoginController.java:22:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:22:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:23:	Avoid using if statements without curly braces
+src/org/bnddev/softeng/LoginController.java:26:	Avoid variables with short names like e
+src/org/bnddev/softeng/LoginController.java:26:	Document empty method
+src/org/bnddev/softeng/LoginController.java:26:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:26:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:27:	Avoid variables with short names like e
+src/org/bnddev/softeng/LoginController.java:27:	Document empty method
+src/org/bnddev/softeng/LoginController.java:27:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:27:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:31:	Avoid variables with short names like e
+src/org/bnddev/softeng/LoginController.java:31:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:31:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:37:	Avoid variables with short names like e
+src/org/bnddev/softeng/LoginController.java:37:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:37:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:43:	Document empty method
+src/org/bnddev/softeng/LoginController.java:43:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:43:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:44:	Document empty method
+src/org/bnddev/softeng/LoginController.java:44:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:44:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:45:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:45:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:46:	Document empty method
+src/org/bnddev/softeng/LoginController.java:46:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:46:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:47:	Document empty method
+src/org/bnddev/softeng/LoginController.java:47:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:47:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:48:	Document empty method
+src/org/bnddev/softeng/LoginController.java:48:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:48:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:49:	Document empty method
+src/org/bnddev/softeng/LoginController.java:49:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:49:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:53:	Parameter 'model' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:53:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:57:	Parameter 'view' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginController.java:57:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:61:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:65:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:69:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginController.java:73:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginView.java:8:	headerCommentRequirement Required
+src/org/bnddev/softeng/LoginView.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/LoginView.java:10:	Private field 'txtUsername' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/LoginView.java:10:	fieldCommentRequirement Required
+src/org/bnddev/softeng/LoginView.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/LoginView.java:11:	Private field 'pwfPassword' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/LoginView.java:11:	fieldCommentRequirement Required
+src/org/bnddev/softeng/LoginView.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/LoginView.java:12:	Private field 'btnRegister' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/LoginView.java:12:	fieldCommentRequirement Required
+src/org/bnddev/softeng/LoginView.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/LoginView.java:13:	Private field 'btnLogin' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/LoginView.java:13:	fieldCommentRequirement Required
+src/org/bnddev/softeng/LoginView.java:15:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginView.java:41:	Local variable 'bgimg' could be declared final
+src/org/bnddev/softeng/LoginView.java:48:	Parameter 'controller' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginView.java:48:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginView.java:55:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginView.java:59:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginView.java:63:	Parameter 'data' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginView.java:63:	Parameter 'source' is not assigned and could be declared final
+src/org/bnddev/softeng/LoginView.java:63:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/LoginView.java:64:	Local variable 'app' could be declared final
+src/org/bnddev/softeng/Main.java:3:	All methods are static.  Consider using a utility class instead. Alternatively, you could add a private constructor or make the class abstract to silence this warning.
+src/org/bnddev/softeng/Main.java:3:	Avoid short class names like Main
+src/org/bnddev/softeng/Main.java:3:	headerCommentRequirement Required
+src/org/bnddev/softeng/Main.java:4:	Parameter 'args' is not assigned and could be declared final
+src/org/bnddev/softeng/Main.java:4:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/Main.java:5:	Local variable 'model' could be declared final
+src/org/bnddev/softeng/Main.java:7:	Local variable 'loginView' could be declared final
+src/org/bnddev/softeng/Main.java:8:	Local variable 'loginCtrl' could be declared final
+src/org/bnddev/softeng/Main.java:14:	Local variable 'registerView' could be declared final
+src/org/bnddev/softeng/Main.java:15:	Local variable 'registerCtrl' could be declared final
+src/org/bnddev/softeng/Main.java:21:	Local variable 'productListView' could be declared final
+src/org/bnddev/softeng/Main.java:22:	Local variable 'productListCtrl' could be declared final
+src/org/bnddev/softeng/Main.java:28:	Local variable 'statisticsView' could be declared final
+src/org/bnddev/softeng/Main.java:29:	Local variable 'statisticsCtrl' could be declared final
+src/org/bnddev/softeng/Main.java:35:	Avoid excessively long variable names like updateSuppliesView
+src/org/bnddev/softeng/Main.java:35:	Local variable 'updateSuppliesView' could be declared final
+src/org/bnddev/softeng/Main.java:36:	Avoid excessively long variable names like updateSuppliesCtrl
+src/org/bnddev/softeng/Main.java:36:	Local variable 'updateSuppliesCtrl' could be declared final
+src/org/bnddev/softeng/ProductListController.java:18:	The class 'ProductListController' has a Cyclomatic Complexity of 3 (Highest = 19).
+src/org/bnddev/softeng/ProductListController.java:18:	The class 'ProductListController' has a Modified Cyclomatic Complexity of 3 (Highest = 19).
+src/org/bnddev/softeng/ProductListController.java:18:	The class 'ProductListController' has a Standard Cyclomatic Complexity of 3 (Highest = 19).
+src/org/bnddev/softeng/ProductListController.java:18:	This class has too many methods, consider refactoring it.
+src/org/bnddev/softeng/ProductListController.java:18:	headerCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListController.java:20:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListController.java:21:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:23:	Avoid excessively long variable names like newProductListener
+src/org/bnddev/softeng/ProductListController.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListController.java:23:	Private field 'newProductListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListController.java:23:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListController.java:24:	Private field 'showStatsListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListController.java:24:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:25:	Avoid excessively long variable names like clearFilterListener
+src/org/bnddev/softeng/ProductListController.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListController.java:25:	Private field 'clearFilterListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListController.java:25:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:26:	Avoid excessively long variable names like toggleFilterListener
+src/org/bnddev/softeng/ProductListController.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListController.java:26:	Private field 'toggleFilterListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListController.java:26:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListController.java:27:	Private field 'filterListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListController.java:27:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:28:	Avoid excessively long variable names like productMouseListener
+src/org/bnddev/softeng/ProductListController.java:28:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListController.java:28:	Private field 'productMouseListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListController.java:28:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListController.java:29:	Private field 'windowListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListController.java:29:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:31:	The constructor 'ProductListController' has a Cyclomatic Complexity of 19.
+src/org/bnddev/softeng/ProductListController.java:31:	The constructor 'ProductListController' has a Modified Cyclomatic Complexity of 19.
+src/org/bnddev/softeng/ProductListController.java:31:	The constructor 'ProductListController' has a Standard Cyclomatic Complexity of 19.
+src/org/bnddev/softeng/ProductListController.java:31:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:33:	Avoid variables with short names like e
+src/org/bnddev/softeng/ProductListController.java:33:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:33:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:39:	Avoid variables with short names like e
+src/org/bnddev/softeng/ProductListController.java:39:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:39:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:40:	Local variable 'tbl' could be declared final
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Found 'DU'-anomaly for variable 'tblModel' (lines '41'-'93').
+src/org/bnddev/softeng/ProductListController.java:41:	Local variable 'tblModel' could be declared final
+src/org/bnddev/softeng/ProductListController.java:41:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/ProductListController.java:42:	Local variable 'products' could be declared final
+src/org/bnddev/softeng/ProductListController.java:43:	Local variable 'rows' could be declared final
+src/org/bnddev/softeng/ProductListController.java:43:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/ProductListController.java:44:	Avoid using for statements without curly braces
+src/org/bnddev/softeng/ProductListController.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/ProductListController.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/ProductListController.java:45:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/ProductListController.java:45:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/ProductListController.java:45:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/ProductListController.java:52:	Avoid variables with short names like e
+src/org/bnddev/softeng/ProductListController.java:52:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:52:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:59:	Avoid variables with short names like e
+src/org/bnddev/softeng/ProductListController.java:59:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:59:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:65:	Avoid variables with short names like e
+src/org/bnddev/softeng/ProductListController.java:65:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:65:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:66:	Avoid variables with short names like e
+src/org/bnddev/softeng/ProductListController.java:66:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:66:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:67:	Avoid variables with short names like e
+src/org/bnddev/softeng/ProductListController.java:67:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:67:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:71:	Avoid variables with short names like e
+src/org/bnddev/softeng/ProductListController.java:71:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:71:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:72:	Avoid using Literals in Conditional Statements
+src/org/bnddev/softeng/ProductListController.java:73:	Local variable 'tbl' could be declared final
+src/org/bnddev/softeng/ProductListController.java:74:	Local variable 'tblModel' could be declared final
+src/org/bnddev/softeng/ProductListController.java:74:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/ProductListController.java:75:	Local variable 'products' could be declared final
+src/org/bnddev/softeng/ProductListController.java:76:	Local variable 'rows' could be declared final
+src/org/bnddev/softeng/ProductListController.java:76:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/ProductListController.java:77:	Avoid using for statements without curly braces
+src/org/bnddev/softeng/ProductListController.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/ProductListController.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/ProductListController.java:78:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/ProductListController.java:78:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/ProductListController.java:78:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/ProductListController.java:85:	Document empty method
+src/org/bnddev/softeng/ProductListController.java:85:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:85:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:86:	Document empty method
+src/org/bnddev/softeng/ProductListController.java:86:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:86:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:87:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:87:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:88:	Document empty method
+src/org/bnddev/softeng/ProductListController.java:88:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:88:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:89:	Document empty method
+src/org/bnddev/softeng/ProductListController.java:89:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:89:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:90:	Document empty method
+src/org/bnddev/softeng/ProductListController.java:90:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:90:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:91:	Document empty method
+src/org/bnddev/softeng/ProductListController.java:91:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:91:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:95:	Parameter 'model' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:95:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:99:	Parameter 'view' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListController.java:99:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:103:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:107:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:111:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:115:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:119:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:123:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListController.java:127:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:12:	headerCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:13:	Private field 'txtCode' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:13:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:14:	Private field 'txtName' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:14:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:15:	Private field 'chkToggle' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:15:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:16:	Private field 'tblProducts' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:16:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:17:	Private field 'btnClearFilter' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:17:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:18:	Private field 'btnNewProduct' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:18:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:19:	Private field 'btnShowStats' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:19:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:20:	Private field 'spnFrom' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:20:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:21:	Private field 'spnTo' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:21:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:22:	Private field 'panelAdmin' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:22:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:23:	Private field 'cmbInterval' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:23:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:25:	Private field 'sorter' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:25:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:26:	Private field 'txtNewName' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:26:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:27:	Private field 'txtNewCode' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:27:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:29:	Each class should declare at least one constructor
+src/org/bnddev/softeng/ProductListView.java:29:	headerCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:30:	Private field 'columnNames' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/ProductListView.java:30:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:31:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:31:	Use explicit scoping instead of the default package private level
+src/org/bnddev/softeng/ProductListView.java:31:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:33:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/org/bnddev/softeng/ProductListView.java:33:	Avoid using redundant field initializer for 'rows'
+src/org/bnddev/softeng/ProductListView.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:33:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:35:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:36:	Parameter 'col' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:36:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:37:	Parameter 'columnIndex' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:37:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:39:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:40:	A method should have only one exit point, and that should be the last statement in the method
+src/org/bnddev/softeng/ProductListView.java:40:	Avoid using if statements without curly braces
+src/org/bnddev/softeng/ProductListView.java:44:	Parameter 'col' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:44:	Parameter 'row' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:44:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:45:	A method should have only one exit point, and that should be the last statement in the method
+src/org/bnddev/softeng/ProductListView.java:45:	Avoid using if statements without curly braces
+src/org/bnddev/softeng/ProductListView.java:46:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/ProductListView.java:49:	Each class should declare at least one constructor
+src/org/bnddev/softeng/ProductListView.java:49:	headerCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:50:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:50:	Use explicit scoping instead of the default package private level
+src/org/bnddev/softeng/ProductListView.java:50:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:51:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:51:	Use explicit scoping instead of the default package private level
+src/org/bnddev/softeng/ProductListView.java:51:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:52:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/ProductListView.java:52:	Use explicit scoping instead of the default package private level
+src/org/bnddev/softeng/ProductListView.java:52:	fieldCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:54:	Avoid variables with short names like e
+src/org/bnddev/softeng/ProductListView.java:54:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:54:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:55:	A method should have only one exit point, and that should be the last statement in the method
+src/org/bnddev/softeng/ProductListView.java:55:	Avoid using if statements without curly braces
+src/org/bnddev/softeng/ProductListView.java:56:	Avoid variables with short names like id
+src/org/bnddev/softeng/ProductListView.java:56:	Local variable 'id' could be declared final
+src/org/bnddev/softeng/ProductListView.java:57:	Avoid using for statements without curly braces
+src/org/bnddev/softeng/ProductListView.java:58:	Avoid using if statements without curly braces
+src/org/bnddev/softeng/ProductListView.java:59:	A method should have only one exit point, and that should be the last statement in the method
+src/org/bnddev/softeng/ProductListView.java:63:	Method names should not start with capital letters
+src/org/bnddev/softeng/ProductListView.java:63:	Parameter 'fltHaveSupplies' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:63:	Parameter 'fltIdStr' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:63:	Parameter 'fltNameStr' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:63:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:64:	Local variable 'filterList' could be declared final
+src/org/bnddev/softeng/ProductListView.java:70:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/ProductListView.java:71:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/ProductListView.java:71:	Avoid empty catch blocks
+src/org/bnddev/softeng/ProductListView.java:71:	Avoid empty catch blocks
+src/org/bnddev/softeng/ProductListView.java:78:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/ProductListView.java:78:	Avoid empty catch blocks
+src/org/bnddev/softeng/ProductListView.java:78:	Avoid empty catch blocks
+src/org/bnddev/softeng/ProductListView.java:83:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/ProductListView.java:89:	Avoid variables with short names like i
+src/org/bnddev/softeng/ProductListView.java:89:	Parameter 'i' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:89:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:90:	A method should have only one exit point, and that should be the last statement in the method
+src/org/bnddev/softeng/ProductListView.java:90:	Avoid using if statements without curly braces
+src/org/bnddev/softeng/ProductListView.java:95:	It is a good practice to call super() in a constructor
+src/org/bnddev/softeng/ProductListView.java:95:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:106:	Local variable 'lblNewLabel_3' could be declared final
+src/org/bnddev/softeng/ProductListView.java:106:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lblNewLabel_3' is not final.
+src/org/bnddev/softeng/ProductListView.java:110:	Local variable 'lblNewLabel_4' could be declared final
+src/org/bnddev/softeng/ProductListView.java:110:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lblNewLabel_4' is not final.
+src/org/bnddev/softeng/ProductListView.java:126:	Local variable 'lblNewLabel_2' could be declared final
+src/org/bnddev/softeng/ProductListView.java:126:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lblNewLabel_2' is not final.
+src/org/bnddev/softeng/ProductListView.java:130:	Local variable 'lblNewLabel_1' could be declared final
+src/org/bnddev/softeng/ProductListView.java:130:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'lblNewLabel_1' is not final.
+src/org/bnddev/softeng/ProductListView.java:149:	Local variable 'model' could be declared final
+src/org/bnddev/softeng/ProductListView.java:158:	Local variable 'scrollPane' could be declared final
+src/org/bnddev/softeng/ProductListView.java:163:	Local variable 'label' could be declared final
+src/org/bnddev/softeng/ProductListView.java:195:	Local variable 'lblNewLabel' could be declared final
+src/org/bnddev/softeng/ProductListView.java:201:	Parameter 'controller' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:201:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:207:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/ProductListView.java:208:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/ProductListView.java:212:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:217:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:218:	Local variable 'model' could be declared final
+src/org/bnddev/softeng/ProductListView.java:222:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:226:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:230:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:235:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:239:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:243:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:247:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:249:	A switch statement does not contain a break
+src/org/bnddev/softeng/ProductListView.java:249:	Switch statements should have a default label
+src/org/bnddev/softeng/ProductListView.java:259:	Parameter 'data' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:259:	Parameter 'source' is not assigned and could be declared final
+src/org/bnddev/softeng/ProductListView.java:259:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/ProductListView.java:260:	Local variable 'app' could be declared final
+src/org/bnddev/softeng/ProductListView.java:263:	Local variable 'model' could be declared final
+src/org/bnddev/softeng/ProductListView.java:266:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/ProductListView.java:271:	Local variable 'spnModelFrom' could be declared final
+src/org/bnddev/softeng/ProductListView.java:275:	Local variable 'spnModelTo' could be declared final
+src/org/bnddev/softeng/ProductListView.java:279:	Avoid using if...else statements without curly braces
+src/org/bnddev/softeng/RegisterController.java:8:	headerCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/RegisterController.java:10:	fieldCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/RegisterController.java:11:	fieldCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/RegisterController.java:13:	Private field 'submitListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/RegisterController.java:13:	fieldCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/RegisterController.java:14:	Private field 'windowListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/RegisterController.java:14:	fieldCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:16:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:18:	Avoid variables with short names like e
+src/org/bnddev/softeng/RegisterController.java:18:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterController.java:18:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:24:	Document empty method
+src/org/bnddev/softeng/RegisterController.java:24:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterController.java:24:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:25:	Document empty method
+src/org/bnddev/softeng/RegisterController.java:25:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterController.java:25:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:26:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterController.java:26:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:27:	Document empty method
+src/org/bnddev/softeng/RegisterController.java:27:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterController.java:27:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:28:	Document empty method
+src/org/bnddev/softeng/RegisterController.java:28:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterController.java:28:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:29:	Document empty method
+src/org/bnddev/softeng/RegisterController.java:29:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterController.java:29:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:30:	Document empty method
+src/org/bnddev/softeng/RegisterController.java:30:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterController.java:30:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:34:	Parameter 'model' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterController.java:34:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:38:	Parameter 'view' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterController.java:38:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:42:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterController.java:46:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:8:	headerCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/RegisterView.java:10:	Private field 'txtUsername' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/RegisterView.java:10:	fieldCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/RegisterView.java:11:	Private field 'txtFullname' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/RegisterView.java:11:	fieldCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/RegisterView.java:12:	Private field 'pwfPassword1' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/RegisterView.java:12:	fieldCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:13:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/RegisterView.java:13:	Private field 'pwfPassword2' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/RegisterView.java:13:	fieldCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/RegisterView.java:14:	Private field 'rdAdmin' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/RegisterView.java:14:	fieldCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/RegisterView.java:15:	Private field 'rdEmployee' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/RegisterView.java:15:	fieldCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/RegisterView.java:16:	Private field 'btnSubmit' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/RegisterView.java:16:	fieldCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:18:	It is a good practice to call super() in a constructor
+src/org/bnddev/softeng/RegisterView.java:18:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:38:	Local variable 'group' could be declared final
+src/org/bnddev/softeng/RegisterView.java:62:	Local variable 'lblbg' could be declared final
+src/org/bnddev/softeng/RegisterView.java:68:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:72:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:76:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:80:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:84:	A getX() method which returns a boolean should be named isX()
+src/org/bnddev/softeng/RegisterView.java:84:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:88:	Parameter 'controller' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterView.java:88:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:93:	Parameter 'data' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterView.java:93:	Parameter 'source' is not assigned and could be declared final
+src/org/bnddev/softeng/RegisterView.java:93:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/RegisterView.java:94:	Local variable 'app' could be declared final
+src/org/bnddev/softeng/StatisticsController.java:6:	headerCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/StatisticsController.java:8:	fieldCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:9:	Avoid unused private fields such as 'view'.
+src/org/bnddev/softeng/StatisticsController.java:9:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/StatisticsController.java:9:	Perhaps 'view' could be replaced by a local variable.
+src/org/bnddev/softeng/StatisticsController.java:9:	fieldCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/StatisticsController.java:11:	Private field 'windowListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/StatisticsController.java:11:	fieldCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:13:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:15:	Document empty method
+src/org/bnddev/softeng/StatisticsController.java:15:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsController.java:15:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:16:	Document empty method
+src/org/bnddev/softeng/StatisticsController.java:16:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsController.java:16:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:17:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsController.java:17:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:18:	Document empty method
+src/org/bnddev/softeng/StatisticsController.java:18:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsController.java:18:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:19:	Document empty method
+src/org/bnddev/softeng/StatisticsController.java:19:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsController.java:19:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:20:	Document empty method
+src/org/bnddev/softeng/StatisticsController.java:20:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsController.java:20:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:21:	Document empty method
+src/org/bnddev/softeng/StatisticsController.java:21:	Parameter 'arg0' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsController.java:21:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:25:	Parameter 'model' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsController.java:25:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:29:	Parameter 'view' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsController.java:29:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsController.java:33:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsView.java:20:	The class 'StatisticsView' has a Cyclomatic Complexity of 5 (Highest = 11).
+src/org/bnddev/softeng/StatisticsView.java:20:	The class 'StatisticsView' has a Modified Cyclomatic Complexity of 5 (Highest = 11).
+src/org/bnddev/softeng/StatisticsView.java:20:	The class 'StatisticsView' has a Standard Cyclomatic Complexity of 5 (Highest = 11).
+src/org/bnddev/softeng/StatisticsView.java:20:	headerCommentRequirement Required
+src/org/bnddev/softeng/StatisticsView.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/StatisticsView.java:22:	Private field 'chartPanel' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/StatisticsView.java:22:	fieldCommentRequirement Required
+src/org/bnddev/softeng/StatisticsView.java:24:	It is a good practice to call super() in a constructor
+src/org/bnddev/softeng/StatisticsView.java:24:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsView.java:31:	Parameter 'controller' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsView.java:31:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsView.java:35:	Parameter 'data' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsView.java:35:	Parameter 'source' is not assigned and could be declared final
+src/org/bnddev/softeng/StatisticsView.java:35:	The method 'update' has a Cyclomatic Complexity of 11.
+src/org/bnddev/softeng/StatisticsView.java:35:	The method 'update' has a Modified Cyclomatic Complexity of 11.
+src/org/bnddev/softeng/StatisticsView.java:35:	The method 'update' has a Standard Cyclomatic Complexity of 11.
+src/org/bnddev/softeng/StatisticsView.java:35:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/StatisticsView.java:36:	Local variable 'app' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:39:	Local variable 'dataset' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:40:	Local variable 'sIn' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:41:	Local variable 'sOut' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:42:	Local variable 'sTotal' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:43:	Found 'DU'-anomaly for variable 'cal' (lines '43'-'113').
+src/org/bnddev/softeng/StatisticsView.java:43:	Local variable 'cal' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:44:	Local variable 'it' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:44:	Potential violation of Law of Demeter (static property access)
+src/org/bnddev/softeng/StatisticsView.java:45:	Local variable 'obj' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:46:	Avoid variables with short names like dt
+src/org/bnddev/softeng/StatisticsView.java:46:	Local variable 'dt' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:47:	Local variable 'val' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:49:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:50:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:51:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/StatisticsView.java:51:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:52:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/StatisticsView.java:52:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:52:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:54:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:55:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:56:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/StatisticsView.java:56:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:57:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/StatisticsView.java:57:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:57:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:58:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/StatisticsView.java:60:	Local variable 'it' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:60:	Potential violation of Law of Demeter (static property access)
+src/org/bnddev/softeng/StatisticsView.java:61:	Local variable 'obj' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:62:	Avoid variables with short names like dt
+src/org/bnddev/softeng/StatisticsView.java:62:	Local variable 'dt' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:63:	Local variable 'val' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:65:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:66:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:67:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/StatisticsView.java:67:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:68:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/StatisticsView.java:68:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:68:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:70:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:71:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:72:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/StatisticsView.java:72:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:73:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/StatisticsView.java:73:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:73:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:74:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/StatisticsView.java:76:	Found 'DU'-anomaly for variable 'lastVal' (lines '76'-'113').
+src/org/bnddev/softeng/StatisticsView.java:77:	Local variable 'it' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:77:	Potential violation of Law of Demeter (static property access)
+src/org/bnddev/softeng/StatisticsView.java:78:	Local variable 'obj' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:79:	Avoid variables with short names like dt
+src/org/bnddev/softeng/StatisticsView.java:79:	Local variable 'dt' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:80:	Local variable 'val' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:82:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:83:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:84:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/StatisticsView.java:84:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:85:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/StatisticsView.java:85:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:85:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:87:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:88:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:89:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/StatisticsView.java:89:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:90:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/org/bnddev/softeng/StatisticsView.java:90:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:90:	Avoid empty catch blocks
+src/org/bnddev/softeng/StatisticsView.java:91:	Avoid instantiating new objects inside loops
+src/org/bnddev/softeng/StatisticsView.java:92:	Found 'DU'-anomaly for variable 'lastVal' (lines '92'-'113').
+src/org/bnddev/softeng/StatisticsView.java:94:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:95:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:96:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:97:	Local variable 'chart' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:99:	Local variable 'renderer' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:102:	Local variable 'plot' could be declared final
+src/org/bnddev/softeng/StatisticsView.java:104:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:105:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:106:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:108:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/StatisticsView.java:109:	Potential violation of Law of Demeter (object not created locally)
+src/org/bnddev/softeng/UpdateSuppliesController.java:6:	headerCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesController.java:7:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/UpdateSuppliesController.java:7:	fieldCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesController.java:8:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/UpdateSuppliesController.java:8:	fieldCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesController.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/UpdateSuppliesController.java:10:	Private field 'addActionListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/UpdateSuppliesController.java:10:	fieldCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesController.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/UpdateSuppliesController.java:11:	Private field 'subActionListener' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/UpdateSuppliesController.java:11:	fieldCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesController.java:13:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesController.java:15:	Avoid variables with short names like e
+src/org/bnddev/softeng/UpdateSuppliesController.java:15:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/UpdateSuppliesController.java:15:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesController.java:21:	Avoid variables with short names like e
+src/org/bnddev/softeng/UpdateSuppliesController.java:21:	Parameter 'e' is not assigned and could be declared final
+src/org/bnddev/softeng/UpdateSuppliesController.java:21:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesController.java:27:	Parameter 'model' is not assigned and could be declared final
+src/org/bnddev/softeng/UpdateSuppliesController.java:27:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesController.java:31:	Parameter 'view' is not assigned and could be declared final
+src/org/bnddev/softeng/UpdateSuppliesController.java:31:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesController.java:35:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesController.java:39:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesView.java:9:	headerCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesView.java:10:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/UpdateSuppliesView.java:10:	Private field 'btnPlus' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/UpdateSuppliesView.java:10:	fieldCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesView.java:11:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/UpdateSuppliesView.java:11:	Private field 'btnMinus' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/UpdateSuppliesView.java:11:	fieldCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesView.java:12:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/org/bnddev/softeng/UpdateSuppliesView.java:12:	Private field 'spnValue' could be made final; it is only initialized in the declaration or constructor.
+src/org/bnddev/softeng/UpdateSuppliesView.java:12:	fieldCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesView.java:14:	It is a good practice to call super() in a constructor
+src/org/bnddev/softeng/UpdateSuppliesView.java:14:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesView.java:33:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/UpdateSuppliesView.java:33:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/UpdateSuppliesView.java:33:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
+src/org/bnddev/softeng/UpdateSuppliesView.java:38:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesView.java:39:	Potential violation of Law of Demeter (method chain calls)
+src/org/bnddev/softeng/UpdateSuppliesView.java:42:	Parameter 'controller' is not assigned and could be declared final
+src/org/bnddev/softeng/UpdateSuppliesView.java:42:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesView.java:47:	Parameter 'data' is not assigned and could be declared final
+src/org/bnddev/softeng/UpdateSuppliesView.java:47:	Parameter 'source' is not assigned and could be declared final
+src/org/bnddev/softeng/UpdateSuppliesView.java:47:	publicMethodCommentRequirement Required
+src/org/bnddev/softeng/UpdateSuppliesView.java:48:	Local variable 'app' could be declared final
+src/org/bnddev/softeng/UpdateSuppliesView.java:51:	Avoid instantiating Integer objects. Call Integer.valueOf() instead.
